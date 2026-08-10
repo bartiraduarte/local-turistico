@@ -6,7 +6,7 @@ Projeto desenvolvido durante os estudos de HTML e CSS, inspirado no desafio da R
 
 Uma página sobre Busan, na Coreia do Sul, apresentando informações sobre a cidade e seus principais pontos turísticos.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas:
 
 - HTML
 - CSS
