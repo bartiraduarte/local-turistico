@@ -8,9 +8,9 @@ Uma página sobre Busan, na Coreia do Sul, apresentando informações sobre a ci
 
 ## Tecnologias utilizadas
 
--HTML
--CSS
+- HTML
+- CSS
 
-Objetivo
+## Objetivo
 
 Praticar conceitos de HTML e CSS, como estruturação de páginas, estilização, imagens, textos, cores, espaçamentos e posicionamento de elementos.
