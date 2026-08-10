@@ -13,4 +13,4 @@ Uma página sobre Busan, na Coreia do Sul, apresentando informações sobre a ci
 
 ## Objetivo
 
-Praticar conceitos de HTML e CSS, como estruturação de páginas, estilização, imagens, textos, cores, espaçamentos e posicionamento de elementos.
+Praticar conceitos de HTML e CSS, como estruturação de páginas, estilização, imagens, textos, coress, espaçamentos e posicionamento de elementos.
