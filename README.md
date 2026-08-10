@@ -8,8 +8,8 @@ Uma página sobre Busan, na Coreia do Sul, apresentando informações sobre a ci
 
 ## Tecnologias utilizadas:
 
-- HTML
-- CSS
+- HTML.
+- CSS.
 
 ## Objetivo
 
